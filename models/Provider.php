@@ -2,9 +2,9 @@
 
 class Provider{
     private $host='localhost';
-    private $dbName="scolarite";
-    private $user="postgres";
-    private $password="pass";
+    private $dbName="safa";
+    private $user="root";
+    private $password="";
 
 
     public function getconnection(){
